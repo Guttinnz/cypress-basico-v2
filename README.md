@@ -27,7 +27,3 @@ Or, run `npm run cy:open:mobile` or `yarn cy:open:mobile` to open Cypress in int
 ## Support this project
 
 If you want to support this project, leave a ⭐.
-
-___
-
-This project was created with 💚 by [Walmyr](https://walmyr.dev).
